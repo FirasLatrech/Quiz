@@ -1,0 +1,129 @@
+*{
+    background-color: rgb(87, 170, 243);
+    font-size: 19px;
+
+
+}
+header{
+    
+    
+    
+
+    padding: 10px 10px ;
+    margin: 10px ;
+    text-align: center;
+    border: solid 1px ;
+    border-radius: 10px 100px;
+    background-color: black;
+    color: azure;
+    width: 100%;
+    
+}
+header:hover,header:focus   {
+    background-color: #6B5B95;
+    width: 100%;
+    position:flex;
+    flex-wrap: wrap;
+    
+}
+
+nav{
+    
+    padding: 5px;
+    margin: 5px 5px;
+    text-align: center;
+}
+.ar{
+    text-decoration: none;
+    margin: 40px;
+    border:solid 1px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    background-color: #92A8D1;
+    border-radius: 6%;
+    
+    
+}
+.ar:hover{
+    background-color: aqua;
+}
+.pargraph{
+    position: relative;
+    left: 50px;
+    margin: 10px 10px;
+    padding: 10px 10px;
+    font-size: large;
+    font-style: italic;
+    border:solid 1px black;
+    width: 400px;
+    
+    flex-wrap: wrap;
+    border-radius: 10px 10px;
+    color: aliceblue;
+    background-color: #6B5B95;
+    border-color: #6B5B95;
+
+
+}
+.welcome{
+    padding: 10px 40px;
+    margin: 10px 30px;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    
+}
+.welcome:hover{
+    border:1px solid;
+    background-color:#92A8D1;
+    border-radius: 10px 14px;
+    font-size: 29px;
+}
+input{
+    padding: 10px 10px;
+    margin: 10px 10px;
+    border:solid 1px black;
+    width: 60px;
+}
+b{
+    
+    border-radius: 5px 4px; 
+    position: relative;
+    left: 20px;
+
+}
+.p1{
+    position: flex;
+    flex-wrap: wrap;
+}
+#a{
+
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border:solid px black;
+    width: 50px;
+    border-radius: 2px 4px;
+    background-color: #6B5B95;
+    color: white;
+    position: relative;
+    left: 190px;
+
+}
+#a:hover,a:link{
+    font-size: 30px;
+    transform: rotate3D(360deg);
+    transition-duration: 2s;
+
+}
+span{
+    padding: 10px 10px;
+    margin: 10px 10px;
+    border-radius: 10px 100px;
+    
+}
+.btn{
+    position: relative;
+    left:50px;
+    border-radius: 10px 10px;
+}
